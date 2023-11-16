@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pknatictech (Pushpendra Kumar)
+- 👀 I’m interested in ... Web Development | Android App Development | C Language
+- 🌱 I’m currently learning ... Flutter | HTML CSS JS | 
+- 💞️ I’m looking to collaborate on ... App Dev And Web Dev Projects
+- 📫 How to reach me ... info.pkrajput@gmail.com
